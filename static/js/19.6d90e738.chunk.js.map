@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/clients/groups/index.js"],"names":["Groups"],"mappings":"0HAQeA,UANA,WACb,OACE","file":"static/js/19.6d90e738.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Groups = () => {\r\n  return (\r\n    <div>Groups</div>\r\n  )\r\n}\r\n\r\nexport default Groups"],"sourceRoot":""}

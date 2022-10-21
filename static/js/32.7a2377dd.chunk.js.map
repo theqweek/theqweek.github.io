@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/system/settings/index.js"],"names":["Settings"],"mappings":"0HAQeA,UANE,WACf,OACE","file":"static/js/32.7a2377dd.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Settings = () => {\r\n  return (\r\n    <div>Settings</div>\r\n  )\r\n}\r\n\r\nexport default Settings"],"sourceRoot":""}

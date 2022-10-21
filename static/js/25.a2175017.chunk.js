@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[25],{501:function(e,s,t){"use strict";t.r(s);var i=t(2);t(0);s.default=function(){return Object(i.jsx)("div",{children:"Newsletters"})}}}]);
+//# sourceMappingURL=25.a2175017.chunk.js.map

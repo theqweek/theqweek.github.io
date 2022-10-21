@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[23],{500:function(e,s,i){"use strict";i.r(s);var t=i(2);i(0);s.default=function(){return Object(t.jsx)("div",{children:"Employees"})}}}]);
+//# sourceMappingURL=23.0152cfbc.chunk.js.map

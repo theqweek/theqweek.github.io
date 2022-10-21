@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/newsletters/index.js"],"names":["Newsletters"],"mappings":"0HAQeA,UANK,WAClB,OACE","file":"static/js/25.a2175017.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Newsletters = () => {\r\n  return (\r\n    <div>Newsletters</div>\r\n  )\r\n}\r\n\r\nexport default Newsletters"],"sourceRoot":""}

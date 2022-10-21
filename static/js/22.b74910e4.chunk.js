@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[22],{495:function(s,e,i){"use strict";i.r(e);var t=i(2);i(0);e.default=function(){return Object(t.jsx)("div",{children:"Dashboard"})}}}]);
+//# sourceMappingURL=22.b74910e4.chunk.js.map

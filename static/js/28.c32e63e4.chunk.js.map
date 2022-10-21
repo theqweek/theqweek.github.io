@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/promo/index.js"],"names":["Promo"],"mappings":"0HAQeA,UAND,WACZ,OACE","file":"static/js/28.c32e63e4.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Promo = () => {\r\n  return (\r\n    <div>Promo</div>\r\n  )\r\n}\r\n\r\nexport default Promo"],"sourceRoot":""}
